@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aether Launcher</string>
+    <string name="search_placeholder">Search apps, contacts, math, web…</string>
+    <string name="app_library_title">App Library</string>
+    <string name="control_center_title">Control Center</string>
+    <string name="settings_title">Launcher Settings</string>
+    <string name="wallpaper_studio_title">Wallpaper Studio</string>
+    <string name="set_default_launcher">Set as Default Launcher</string>
+    <string name="allow_contacts_prompt">Enable Contacts in Search</string>
+    <string name="allow_location_prompt">Use Current Location</string>
+</resources>

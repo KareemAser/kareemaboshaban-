@@ -1,0 +1,6 @@
+{
+  "name": "Aether Launcher",
+  "description": "Fast, lightweight Android system launcher blending iOS 27 Liquid Glass aesthetics with HyperOS 4 fluid motion, Super Island, Control Center, Spotlight Search, and interactive glass widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
